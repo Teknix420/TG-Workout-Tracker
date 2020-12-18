@@ -23,7 +23,6 @@ This is the main page that you will come to upon loading the website. If you've 
 This page is where you will create a new workout. You can select the dropdown box and choose either Cardio or Resistance depending on which workout you'd like to enter. The app will then display the input boxes that you can enter information such as reps, weights, duration, and distance.
 
 ![Cardio](./assets/pics/Cardio.jpg)
-![Resistance](./assets/pics/Resistance.jpg)
 
 After you enter in your desired workout, you can either add another workout by clicking the green button or you can complete adding your exercises by clicking the blue button. After the blue button is clicked, it will redirect you back to the main screen after a couple of seconds.
 
