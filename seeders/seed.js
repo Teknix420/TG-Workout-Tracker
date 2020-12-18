@@ -5,7 +5,9 @@ let Seed = function () {
 
   mongoose.connect("mongodb://localhost/workout", {
     useNewUrlParser: true,
-    useFindAndModify: false
+    useFindAndModify: false,
+    useUnifiedTopology: true,
+    useCreateIndex: true,
   });
 
   let workoutSeed = [
